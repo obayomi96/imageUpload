@@ -1,0 +1,4 @@
+export const LOADING = 'LOADING';
+export const NOT_LOADING = 'NOT_LOADING';
+export const POST_IMAGE_SUCCESS = 'POST_IMAGE_SUCCESS';
+export const POST_IMAGE_FAILURE = 'POST_IMAGE_FAILURE';
